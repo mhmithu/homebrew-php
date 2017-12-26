@@ -3,7 +3,7 @@ require File.expand_path("../../Requirements/php-meta-requirement", __FILE__)
 class Phpmyadmin < Formula
   desc "A web interface for MySQL and MariaDB"
   homepage "https://www.phpmyadmin.net"
-  url "https://files.phpmyadmin.net/phpMyAdmin/4.7.6/phpMyAdmin-4.7.6-all-languages.tar.gz"
+  url "https://files.phpmyadmin.net/phpMyAdmin/4.7.7/phpMyAdmin-4.7.7-english.tar.gz"
   sha256 "e460e41c2f74bf7093e3f6d3b762eb97df6e1b346234b4b63bb27fc0d9dcd62c"
   head "https://github.com/phpmyadmin/phpmyadmin.git"
 
